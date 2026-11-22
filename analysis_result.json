@@ -1,0 +1,10 @@
+{
+    "project": "Battery Data Analyzer",
+    "average_capacity": 2450.0,
+    "hottest_experiment": {
+        "temperature": 45,
+        "voltage": 3.9,
+        "capacity": 2300
+    },
+    "status": "completed"
+}

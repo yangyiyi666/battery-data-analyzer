@@ -1,0 +1,30 @@
+{
+    "project": "Battery Data Analyzer",
+    "units": {
+        "temperature": "C",
+        "voltage": "V",
+        "capacity": "mAh"
+    },
+    "experiments": [
+        {
+            "temperature": 25,
+            "voltage": 3.7,
+            "capacity": 2500
+        },
+        {
+            "temperature": 35,
+            "voltage": 3.8,
+            "capacity": 2450
+        },
+        {
+            "temperature": 45,
+            "voltage": 3.9,
+            "capacity": 2300
+        },
+        {
+            "temperature": 25,
+            "voltage": 3.6,
+            "capacity": 2550
+        }
+    ]
+}
